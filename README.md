@@ -1,2 +1,3 @@
-# Bioinformatics-Algorithms
-A repository of bioinformatics algorithms using the BioPython library
+# General-Bioinformatics
+
+A repository for general-purpose bioinformatics files.
